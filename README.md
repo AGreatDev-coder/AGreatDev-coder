@@ -181,19 +181,7 @@ const ronak = {
 
 </div>
 
----
 
-## 📈 Quick Numbers
-
-<div align="center">
-
-| 📦 Repos | 👥 Followers | ⭐ Stars Given | 🏆 Achievements |
-|:---:|:---:|:---:|:---:|
-| **8** | **4** | **2** | **3** |
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
