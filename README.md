@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -7,7 +8,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ronak+👋;Aspiring+Full+Stack+Developer+💻;Coffee+Addict+%2B+Code+Nerd+☕🧠;Building+Cool+Things+One+Line+at+a+Time+🚀;Chill+Dev+%7C+Big+Dreams+%7C+Hot+Coffee+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Ronak;Aspiring+Full+Stack+Developer;Building+Cool+Things+With+Code;JavaScript+%7C+React+%7C+Node.js;Always+Learning+Something+New" />
 </div>
 
 <br/>
@@ -111,14 +112,11 @@ const ronak = {
 
 <div align="center">
 
-<!-- Real earned achievements -->
 | 🦈 Pull Shark | 🎯 YOLO | ⚡ Quickdraw |
 |:---:|:---:|:---:|
 | Merged PRs like a pro | Merged without review | Closed issues fast |
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AGreatDev-coder&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
@@ -133,30 +131,6 @@ const ronak = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AGreatDev-coder/AGreatDev-coder/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-> ⚙️ **To enable the snake**, add `.github/workflows/snake.yml` to your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
@@ -178,14 +152,14 @@ const ronak = {
 
 <div align="center">
 
-```
-🌅  Morning         → ☕ Coffee #1  →  Plan the day
-🧠  Deep Work       → ☕ Coffee #2  →  Push to airaware / study-planner
-🐛  Debug Session   → ☕ Coffee #3  →  Fix everything
-🤖  AI Mode         → ☕ Coffee #4  →  personal-ai-tracker goes brrr
-🌙  Late Night      → ☕ Coffee #5  →  "Just one more commit" (YOLO badge achieved)
-😴  Sleep           → 💭 Dream in JavaScript
-```
+| Time | Fuel | Task |
+|:----:|:----:|:-----|
+| 🌅 Morning | ☕ Coffee #1 | Plan the day & check issues |
+| 🧠 Deep Work | ☕ Coffee #2 | Push features to airaware / study-planner |
+| 🐛 Debug Session | ☕ Coffee #3 | Fix everything that broke |
+| 🤖 AI Mode | ☕ Coffee #4 | personal-ai-tracker goes brrr |
+| 🌙 Late Night | ☕ Coffee #5 | "Just one more commit" *(YOLO badge earned)* |
+| 😴 Sleep | 💭 Dreams | Dream in JavaScript |
 
 </div>
 
@@ -193,10 +167,18 @@ const ronak = {
 
 ## 🎵 Coding Playlist Vibes
 
+> Click any track below to vibe while you browse 🎧
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Lo--Fi%20Hip%20Hop-Playing%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Synthwave-Always%20On-9B59B6?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chillhop-Weekend%20Vibes-FF6B6B?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+
+| 🎵 Track | 🎨 Mood | ▶️ Play |
+|:---|:---:|:---:|
+| Lofi Hip Hop Radio – beats to relax/study | 😌 Chill | [![YouTube](https://img.shields.io/badge/Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk) |
+| Synthwave / Retrowave Mix | 🌆 Focused | [![YouTube](https://img.shields.io/badge/Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=b1tGFWta7dA) |
+| Chillhop Essentials | 🌿 Relaxed | [![YouTube](https://img.shields.io/badge/Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5yx6BWlEVcY) |
+| Programming Music – Deep Focus | 💻 Deep Work | [![YouTube](https://img.shields.io/badge/Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=n61ULEU7CO0) |
+| Tokyo Night Drive – City Pop | 🌙 Night Mode | [![YouTube](https://img.shields.io/badge/Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qCNT4HUXFPI) |
+
 </div>
 
 ---
@@ -232,12 +214,7 @@ const ronak = {
 
 ---
 
-## 👀 Profile Views
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AGreatDev-coder&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/AGreatDev-coder?style=for-the-badge&color=blueviolet&logo=github&label=Followers"/>
-</div>
 
 <br/>
 
